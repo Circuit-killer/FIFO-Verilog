@@ -1,4 +1,4 @@
-FIF--Verilog-
+FIFO - Verilog
 =============
 
 First In, First Out written in Verilog
